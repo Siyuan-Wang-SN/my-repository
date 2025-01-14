@@ -1,2 +1,2 @@
 # my-repository
-一些计概资料
+一些资料
